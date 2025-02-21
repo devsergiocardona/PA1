@@ -14,4 +14,3 @@ This repository contains:
 2. **Run** the scheduler with an input file from `input_files/`. For example:
    ```bash
    python3 scheduler-gpt.py input_files/c2-fcfs.in
-z
