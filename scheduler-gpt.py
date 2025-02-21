@@ -2,7 +2,7 @@
 """
 scheduler-gpt.py
 
-Team Members: Sergio Cardona , (ADD your names)
+Team Members: Sergio Cardona, Mariana Ramirez, Vanessa Junco, Christian Solent, Bejamin Titus 
 
 This file implements three process scheduling algorithms:
   - FCFS (First Come, First Served)
