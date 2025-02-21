@@ -4,7 +4,7 @@ This repository contains:
 - **scheduler-gpt.py**: Main script implementing FCFS, preemptive SJF, and Round Robin scheduling.
 - **compare.py**: A helper script for line-by-line comparison of two output files.
 - **input_files/**: Folder containing `.in` files (the inputs).
-- **output_files/**: Folder containing reference `.out` files for comparison (e.g., from your professor).
+- **output_files/**: Folder containing reference `.out` files for comparison (given by prof)
 
 ## Requirements
 - Python 3.x
